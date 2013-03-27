@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface iAdPageViewController : UIViewController
-
+@property (nonatomic, strong) UIButton *test;
 @end
